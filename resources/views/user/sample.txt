@@ -1,0 +1,14 @@
+@extends('user.layouts.app')
+
+@section('title')
+    Myproduct.lk | Login
+@endsection
+
+@section('styles')
+@endsection
+
+@section('content')
+@endsection
+
+@section('scripts')
+@endsection

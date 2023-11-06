@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+    .owl2-carousel .owl2-item {
+        width: 80px !important;
+    }
+}
