@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | Contact Us
+    greenguardexpress.lk | Contact Us
 @endsection
 
 @section('styles')
@@ -48,7 +48,7 @@
                                     <div class="icon">
                                         <i class="fa fa-envelope"></i>
                                     </div>
-                                    <div class="text">email : info@myproduct.lk</div>
+                                    <div class="text">email : info@greenguardexpress.lk</div>
                                 </div>
                             </address>
                         </div>

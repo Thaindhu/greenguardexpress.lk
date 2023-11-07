@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-Myproduct.lk | Checkout | Payment
+greenguardexpress.lk | Checkout | Payment
 @endsection
 
 @section('styles')
@@ -259,7 +259,7 @@ Myproduct.lk | Checkout | Payment
                                     <div class="form-group required upload-file">
                                         <hr>
                                         <p><b>Bank:</b> Commercial Bank</p>
-                                        <p><b>Account Name:</b> Myproduct.lk</p>
+                                        <p><b>Account Name:</b> greenguardexpress.lk</p>
                                         <p><b>Account No:</b> 1000 569 658</p>
                                         <label for="input-payment-telephone" class="control-label">Upload Slip/
                                             Payment

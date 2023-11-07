@@ -4,11 +4,11 @@
 <head>
     <!-- Basic page needs
  ============================================ -->
-    <title>@yield('title', 'MyProduct.lk - Shop online')</title>
+    <title>@yield('title', 'greenguardexpress.lk - Shop online')</title>
     <meta charset="utf-8">
     <meta name="keywords"
         content="boostrap, responsive, html5, css3, jquery, theme, multicolor, parallax, retina, business" />
-    <meta name="author" content="MyProduct.lk Dev Team" />
+    <meta name="author" content="greenguardexpress.lk Dev Team" />
     <meta name="robots" content="index, follow" />
     <meta name="csrf-token" content="{{ csrf_token() }}" />
     <meta name="facebook-domain-verification" content="fhih8o4ia0snlfqwekhqg5vrtnla85" />

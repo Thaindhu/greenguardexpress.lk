@@ -21,7 +21,7 @@
                                             <a href="tel:+94 000 000 000">
                                                 <h2 class="hotline-footer">+94 000 000 000</h2>
                                             </a>
-                                            <a href="mailto:info@myproduct.lk">
+                                            <a href="mailto:info@greenguardexpress.lk">
                                                 <h5 class="color-white email-footer">greenguardexpress.lk</h5>
                                             </a>
                                         </div>
@@ -70,12 +70,12 @@
                                 {{-- <h3 class="modtitle color-white">Contact Us </h3> --}}
                                 <div class="modcontent">
                                     <ul class="contact-address" style="display: flex">
-                                        <li><a target="_blank" href="https://www.facebook.com/Myproduct.lk/"><span
+                                        <li><a target="_blank" href="https://www.facebook.com/greenguardexpress.lk/"><span
                                                     class="fa fa-facebook"></span></a></li>
                                         <li><a target="_blank"
                                                 href="https://www.linkedin.com/company/myproduct-lk/"><span
                                                     class="fa fa-linkedin"></li></a>
-                                        <li><a target="_blank" href="https://www.instagram.com/Myproduct.lk/"><span
+                                        <li><a target="_blank" href="https://www.instagram.com/greenguardexpress.lk/"><span
                                                     class="fa fa-instagram"></span></a></li>
                                         <li><a target="_blank" href="https://vm.tiktok.com/ZS8ejSbrY/"><span
                                                     class="fa-brands fa-tiktok"></span></a></li>
@@ -212,7 +212,7 @@
         <!-- Social widgets -->
         {{-- <section class="social-widgets visible-lg">
             <ul class="items">
-                <li class="item item-01 facebook"> <a href="https://www.facebook.com/Myproduct.lk/" class="tab-icon"><span
+                <li class="item item-01 facebook"> <a href="https://www.facebook.com/greenguardexpress.lk/" class="tab-icon"><span
                             class="fa fa-facebook"></span></a>
                     <div class="tab-content">
                         <div class="title">

@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | Checkout | Shipping Details
+    greenguardexpress.lk | Checkout | Shipping Details
 @endsection
 
 @section('styles')

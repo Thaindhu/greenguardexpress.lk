@@ -74,7 +74,7 @@ Order | {{ $order->invoice_number }}
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>MyProduct.lk</td>
+                                                            <td>greenguardexpress.lk</td>
                                                         </tr>
                                                         <tr>
                                                             <td>

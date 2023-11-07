@@ -82,7 +82,7 @@
                         <a class="mobile-menu" id="mobile-collapse" href="#!">
                             <i class="feather icon-menu"></i>
                         </a>
-                        <span class="pcoded-mtext">MyProduct.lk</span>
+                        <span class="pcoded-mtext">greenguardexpress.lk</span>
                         </a>
                         <a class="mobile-options">
                             <i class="feather icon-more-horizontal"></i>

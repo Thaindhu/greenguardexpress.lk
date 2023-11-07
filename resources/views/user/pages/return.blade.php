@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | Return Policy
+    greenguardexpress.lk | Return Policy
 @endsection
 
 @section('styles')
@@ -19,11 +19,11 @@
                 <h1>Return & Exchange Policy</h1>
                 <br>
                 <div>
-                    <h3>- Myproduct.lk online exchange policy</h3>
+                    <h3>- greenguardexpress.lk online exchange policy</h3>
                     <ul>
                         <li>
                             <p>You have 7 days from the shipping date to inform us about the exchange, to select a new
-                                Myproduct.lk
+                                greenguardexpress.lk
                                 item.</p>
                         </li>
                         <li>
@@ -56,12 +56,12 @@
                         customer service and receive refund of advance paid if any in accordance with our return & refund
                         policy.
                     </p>
-                    <p>www.myproduct.lk reserves the right to cancel any order if it suspects any fraudulent transaction by
-                        a customer / vendor or breaches the terms & conditions of using www.myproduct.lk</p>
+                    <p>www.greenguardexpress.lk reserves the right to cancel any order if it suspects any fraudulent transaction by
+                        a customer / vendor or breaches the terms & conditions of using www.greenguardexpress.lk</p>
                 </div>
                 <div>
                     <h3>- Return & Refunds </h3>
-                    <p>www.myproduct.lk practices no cash back & we don’t refund money. No exchange of items. However we
+                    <p>www.greenguardexpress.lk practices no cash back & we don’t refund money. No exchange of items. However we
                         will give a coupon or loyalty points that amounts to the order that has been placed which you can
                         use for your future order placements. If the transaction is based on COD (Cash On Delivery) and if
                         the customer wants to resend order to us, customer must bear the return courier fee.</p>

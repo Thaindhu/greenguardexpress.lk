@@ -82,7 +82,7 @@ class OrderController extends Controller
     public function update_status(Request $request)
     {
 
-        $api_key               = "api6391c73994712";
+        $api_key               = "api654884a74cd2a";
         $client_id             = "14190";
         $recipient_name        = $request->order_name;
         $recipient_contact_no  = $request->order_mobile;

@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | Privacry & Security
+    greenguardexpress.lk | Privacry & Security
 @endsection
 
 @section('styles')
@@ -20,9 +20,9 @@
                 <br>
                 <div>
                     <h3>- Privacy Policy</h3>
-                    <p>At www.myproduct.lk , we prioritize data protection and confidentiality of our customers. This
+                    <p>At www.greenguardexpress.lk , we prioritize data protection and confidentiality of our customers. This
                         privacy
-                        policy sets out clear guidelines for how www.myproduct.lk processes your personal data. Further, we
+                        policy sets out clear guidelines for how www.greenguardexpress.lk processes your personal data. Further, we
                         explain how we use the personal data that you leave and/or provide when you visit our website and
                         use
                         the various services on the website.</p>
@@ -38,14 +38,14 @@
                         our web shop. </p>
                     <p>Your personal data is collected in one or several of below cases:</p>
                     <ul>
-                        <li>When you buy goods online at www.myproduct.lk </li>
+                        <li>When you buy goods online at www.greenguardexpress.lk </li>
                         <li>When you sign up for newsletter </li>
-                        <li>When you create a customer account at www.myproduct.lk </li>
+                        <li>When you create a customer account at www.greenguardexpress.lk </li>
                         <li>When you participate in one of our competitions (Only if there)</li>
                     </ul>
                     <p>If you use your email address in more than one of the above cases, your personal data will only be
                         collected and registered in one place. This way your information is already stored when you shop at
-                        us, and you will not receive the same marketing material from www.myproduct.lk more than once.</p>
+                        us, and you will not receive the same marketing material from www.greenguardexpress.lk more than once.</p>
                 </div>
                 <div>
                     <h3>02. Use of personal data</h3>
@@ -66,7 +66,7 @@
                         given your explicit consent, unless legislation allows us to contact you without your prior consent.
                     </p>
                     <p>
-                        www.myproduct.lk keeps statistics about which areas of the site our users visit and which products
+                        www.greenguardexpress.lk keeps statistics about which areas of the site our users visit and which products
                         the users prefer. This data does not contain personal data. Knowledge about the users’ use of the
                         website is gained with help from the collected data. This information is used to improve the
                         website. We do use data about how our users navigate, to better understand how our users use the
@@ -82,7 +82,7 @@
                     <h3>03. Transfer to other data controllers</h3>
                     <p>In general, we do not transfer your personal data to a third party without your consent. However,
                         information that is used for delivery of goods will be transferred to the shipping/delivery company
-                        used by www.myproduct.lk </p>
+                        used by www.greenguardexpress.lk </p>
                     <p>Under specific circumstances and with reference to legislation, it might be necessary to transfer
                         information to public authorities or the police. For example, information may be disclosed to the
                         police in case of suspicion of credit card fraud. </p>
@@ -92,9 +92,9 @@
                 </div>
                 <div>
                     <h3>04. Disclosure to data processors </h3>
-                    <p>Your personal data is disclosed to partners of www.myproduct.lk who deliver services on behalf of
-                        www.myproduct.lk , for example in relation to send-outs of newsletters. These partners only process
-                        the personal data on behalf of us and in accordance with the instructions of www.myproduct.lk.</p>
+                    <p>Your personal data is disclosed to partners of www.greenguardexpress.lk who deliver services on behalf of
+                        www.greenguardexpress.lk , for example in relation to send-outs of newsletters. These partners only process
+                        the personal data on behalf of us and in accordance with the instructions of www.greenguardexpress.lk.</p>
                 </div>
                 <div>
                     <h3>05. Deletion of personal data </h3>

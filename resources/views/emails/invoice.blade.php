@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Invoice - myproduct.lk</title>
+    <title>Invoice - greenguardexpress.lk</title>
 </head>
 
 <body>

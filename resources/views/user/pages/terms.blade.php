@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | Terms & conditons
+    greenguardexpress.lk | Terms & conditons
 @endsection
 
 @section('styles')
@@ -19,17 +19,17 @@
 
                 <h3><strong>1.&nbsp;Introduction</strong></h3>
 
-                <p>Welcome to&nbsp;<strong>Myproduct.lk </strong>!</p>
+                <p>Welcome to&nbsp;<strong>greenguardexpress.lk </strong>!</p>
 
                 <ul>
                     <li>These Terms of Service govern your use of our website located
-                        at&nbsp;<strong>myproduct.lk</strong>&nbsp;operated by&nbsp;<strong>Myproduct.lk</strong>.</li>
+                        at&nbsp;<strong>greenguardexpress.lk</strong>&nbsp;operated by&nbsp;<strong>greenguardexpress.lk</strong>.</li>
                     <li>Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and
                         disclose information that results from your use of our web pages.</li>
                     <li>Your agreement with us includes these Terms and our Privacy Policy (&ldquo;Agreements&rdquo;). You
                         acknowledge that you have read and understood Agreements, and agree to be bound of them.</li>
                     <li>If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but
-                        please let us know by emailing at&nbsp;<strong>info@myproduct.lk</strong>&nbsp;so we can try to find
+                        please let us know by emailing at&nbsp;<strong>info@greenguardexpress.lk</strong>&nbsp;so we can try to find
                         a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
                     </li>
                 </ul>
@@ -39,7 +39,7 @@
                 <ul>
                     <li>By using our Service, you agree to subscribe to newsletters, marketing or promotional materials and
                         other information we may send. However, you may opt out of receiving any, or all, of these
-                        communications from us by following the unsubscribe link or by emailing at&nbsp;info@myproduct.lk.
+                        communications from us by following the unsubscribe link or by emailing at&nbsp;info@greenguardexpress.lk.
                     </li>
                 </ul>
 
@@ -98,9 +98,9 @@
                         display, reproduce, and distribute such Content on and through Service. You agree that this license
                         includes the right for us to make your Content available to other users of Service, who may also use
                         your Content subject to these Terms.</li>
-                    <li>Myproduct.lk&nbsp;has the right but not the obligation to monitor and edit all Content provided by
+                    <li>greenguardexpress.lk&nbsp;has the right but not the obligation to monitor and edit all Content provided by
                         users.</li>
-                    <li>In addition, Content found on or through this Service are the property of&nbsp;Myproduct.lk&nbsp;or
+                    <li>In addition, Content found on or through this Service are the property of&nbsp;greenguardexpress.lk&nbsp;or
                         used with permission. You may not distribute, modify, transmit, reuse, download, repost, copy, or
                         use said Content, whether in whole or in part, for commercial purposes or for personal gain, without
                         express advance written permission from us.</li>
@@ -186,10 +186,10 @@
 
                 <ul>
                     <li>Service and its original content (excluding Content provided by users), features and functionality
-                        are and will remain the exclusive property of&nbsp;Myproduct.lk&nbsp;and its licensors. Service is
+                        are and will remain the exclusive property of&nbsp;greenguardexpress.lk&nbsp;and its licensors. Service is
                         protected by copyright, trademark, and other laws of&nbsp;and foreign countries. Our trademarks may
                         not be used in connection with any product or service without the prior written consent
-                        of&nbsp;Myproduct.lk.</li>
+                        of&nbsp;greenguardexpress.lk.</li>
                 </ul>
 
                 <h3><strong>12.&nbsp;Copyright Policy</strong></h3>
@@ -200,7 +200,7 @@
                         (&ldquo;Infringement&rdquo;) of any person or entity.</li>
                     <li>If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted
                         work has been copied in a way that constitutes copyright infringement, please submit your claim via
-                        email to&nbsp;info@myproduct.lk, with the subject line: &ldquo;Copyright Infringement&rdquo; and
+                        email to&nbsp;info@greenguardexpress.lk, with the subject line: &ldquo;Copyright Infringement&rdquo; and
                         include in your claim a detailed description of the alleged Infringement as detailed below, under
                         &ldquo;DMCA Notice and Procedure for Copyright Infringement Claims&rdquo;</li>
                     <li>You may be held accountable for damages (including costs and attorneys&rsquo; fees) for
@@ -230,11 +230,11 @@
                         behalf.</li>
                 </ul>
 
-                <p>You can contact our Copyright Agent via email at&nbsp;info@myproduct.lk.</p>
+                <p>You can contact our Copyright Agent via email at&nbsp;info@greenguardexpress.lk.</p>
 
                 <h3><strong>14.&nbsp;Error Reporting and Feedback</strong></h3>
 
-                <p>You may provide us either directly at&nbsp;info@myproduct.lk&nbsp;or via third-party sites and tools with
+                <p>You may provide us either directly at&nbsp;info@greenguardexpress.lk&nbsp;or via third-party sites and tools with
                     information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints,
                     and other matters related to our Service (&ldquo;Feedback&rdquo;). You acknowledge and agree that: (i)
                     you shall not retain, acquire or assert any intellectual property right or other right, title or
@@ -250,8 +250,8 @@
 
                 <ul>
                     <li>Our Service may contain links to third party web sites or services that are not owned or controlled
-                        by&nbsp;Myproduct.lk.</li>
-                    <li>Myproduct.lk&nbsp;has no control over, and assumes no responsibility for the content, privacy
+                        by&nbsp;greenguardexpress.lk.</li>
+                    <li>greenguardexpress.lk&nbsp;has no control over, and assumes no responsibility for the content, privacy
                         policies, or practices of any third party web sites or services. We do not warrant the offerings of
                         any of these entities/individuals or their websites.</li>
                 </ul>
@@ -370,7 +370,7 @@
                 <h3><strong>24.&nbsp;Contact Us</strong></h3>
 
                 <p>Please send your feedback, comments, and requests for technical support by
-                    email:&nbsp;<strong>info@myproduct.lk</strong>.</p>
+                    email:&nbsp;<strong>info@greenguardexpress.lk</strong>.</p>
             </div>
         </div>
     </div>

@@ -179,7 +179,7 @@ class OrderController extends Controller
                     // if (Auth::user()) {
                     //     return redirect()->route('user.order.payment', $res->invoice_number);
                     //     // Session::forget('cart');
-                    //     // return redirect()->route('user.cart.order_status', $res->invoice_number)->with('success', "Your Order has been placed. Thank you for choosing myproduct.lk.");
+                    //     // return redirect()->route('user.cart.order_status', $res->invoice_number)->with('success', "Your Order has been placed. Thank you for choosing greenguardexpress.lk.");
                     // } else {
                     //     $data['number'] = $request->mobile_number;
                     //     $data['message'] = 'Dear+Customer+Please+use+following+OTP:+' . $otp . '+to+complete+your+request';
@@ -227,7 +227,7 @@ class OrderController extends Controller
 
             return redirect()->route('user.order.payment', $request->order_id);
             // Session::forget('cart');
-            // return redirect()->route('user.cart.order_status', $order->invoice_number)->with('success', "Your Order has been placed. Thank you for choosing myproduct.lk.");
+            // return redirect()->route('user.cart.order_status', $order->invoice_number)->with('success', "Your Order has been placed. Thank you for choosing greenguardexpress.lk.");
         } else {
             return back()->with('error', 'Invalid Order');
         }
@@ -299,7 +299,7 @@ class OrderController extends Controller
         $total_amount = $order->total_amount + $delivery_amount;
 
         //call set parcel variables
-        $api_key               = "api6391c73994712";
+        $api_key               = "api654884a74cd2a";
         $client_id             = "14190";
         $recipient_name        = $order->first_name . $order->last_name;
         $recipient_contact_no  = $order->mobile_number;
@@ -593,7 +593,7 @@ class OrderController extends Controller
                     $result = $smscontroller->sendSms($data);
                 }
                 
-                Session::flash('success', 'Your Order has been placed. Thank you for choosing myproduct.lk!');
+                Session::flash('success', 'Your Order has been placed. Thank you for choosing greenguardexpress.lk!');
                 return response()->json(
                     [
                         'status' => true,
@@ -676,7 +676,7 @@ class OrderController extends Controller
             "order_id" => $invoice_number,
             "total_price" => ($total + $delivery_amount),
             "discount" => $total_discount,
-            "customer_email" => session()->get('LoggedUser')->email == null ? 'info@myproduct.lk' : session()->get('LoggedUser')->email,
+            "customer_email" => session()->get('LoggedUser')->email == null ? 'info@greenguardexpress.lk' : session()->get('LoggedUser')->email,
             "customer_id" => session()->get('LoggedUser')->id,
             "customer_telephone" => session()->get('LoggedUser')->mobile_number,
             "ip" => request()->ip(),
@@ -687,8 +687,8 @@ class OrderController extends Controller
             "cart_created_date" => $created_at_date,
             "cart_updated_date" => $created_at_date,
             "products" => $products,
-            "success_url" => "https://myproduct.lk/checkout/complete/" . $invoice_number,
-            "fail_url" => "https://myproduct.lk/order/" . $invoice_number . "/payment",
+            "success_url" => "https://greenguardexpress.lk/checkout/complete/" . $invoice_number,
+            "fail_url" => "https://greenguardexpress.lk/order/" . $invoice_number . "/payment",
         ]);
 
 

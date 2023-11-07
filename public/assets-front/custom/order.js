@@ -102,17 +102,17 @@ function bank_pay() {
     var payment = {
         sandbox: false,
         merchant_id: "223120", // Replace your Merchant ID
-        return_url: "https://myproduct.lk/", // Important
+        return_url: "https://greenguardexpress.lk/", // Important
         cancel_url:
-            "https://myproduct.lk/order/" + order.invoice_number + "/payment", // Important
-        notify_url: "https://myproduct.lk/api/payhere/payment/status",
+            "https://greenguardexpress.lk/order/" + order.invoice_number + "/payment", // Important
+        notify_url: "https://greenguardexpress.lk/api/payhere/payment/status",
         order_id: order.invoice_number,
         items: order.invoice_number,
         amount: parseFloat(total_amount),
         currency: "LKR",
         first_name: order.first_name,
         last_name: order.last_name,
-        email: "info@myproduct.lk",
+        email: "info@greenguardexpress.lk",
         phone: order.mobile_number,
         address: order.address_1,
         city: order.city_name,
@@ -160,10 +160,10 @@ function proceedPayhere(orderid, invoiceNumber) {
             let payment = {
                 sandbox: false,
                 merchant_id: "223120", // Replace your Merchant ID
-                return_url: "https://myproduct.lk/",
+                return_url: "https://greenguardexpress.lk/",
                 cancel_url:
-                    "https://myproduct.lk/order/" + invoiceNumber + "/payment",
-                notify_url: "https://myproduct.lk/api/payhere/payment/status",
+                    "https://greenguardexpress.lk/order/" + invoiceNumber + "/payment",
+                notify_url: "https://greenguardexpress.lk/api/payhere/payment/status",
                 order_id: parseFloat(response.orderDetils["invoice_number"]),
                 items: response.orderItemDetils["title"],
                 amount: (
@@ -174,7 +174,7 @@ function proceedPayhere(orderid, invoiceNumber) {
                 hash: response.hash, // *Replace with generated hash retrieved from backend
                 first_name: response.userDetils["first_name"],
                 last_name: response.userDetils["last_name"],
-                email: "info@myproduct.lk",
+                email: "info@greenguardexpress.lk",
                 phone: response.userDetils["mobile_number"],
                 address: response.userDetils["address_1"],
                 city: response.userDetils["address_2"],

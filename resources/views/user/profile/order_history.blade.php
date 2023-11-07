@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | Order History
+    greenguardexpress.lk | Order History
 @endsection
 
 @section('styles')

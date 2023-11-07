@@ -34,7 +34,7 @@ class invoice extends Mailable
 
     public function build()
     {
-        return $this->subject('Mail from myproduct.lk')
+        return $this->subject('Mail from greenguardexpress.lk')
                     ->view('emails.invoice');
     }
 

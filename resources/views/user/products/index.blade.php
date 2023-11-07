@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | {{ $cat_name }}
+    greenguardexpress.lk | {{ $cat_name }}
 @endsection
 
 @section('styles')

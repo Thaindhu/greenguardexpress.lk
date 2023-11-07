@@ -51,7 +51,7 @@ body {
                             <tr>
                                 <td style="width: 40%;">
                                     <address class="m-t-5 m-b-5" style="font-size: 18px;margin-top:5px">
-                                        MyProduct.lk<br>
+                                        greenguardexpress.lk<br>
                                         New supper market,Uragasmanhandiya.<br>
                                         info@myproducts.lk<br>
                                         0777 749 800 / 0752 800 800
@@ -207,7 +207,7 @@ body {
                     <div class="invoice-footer" style="font-size: 12px">
                         <p class="text-center f-w-200">
                             <span class="m-r-10">THANK YOU FOR YOUR BUSINESS</span><br>
-                            <span class="m-r-10"><i class="fa fa-fw fa-lg fa-globe"></i> myproduct.lk </span>
+                            <span class="m-r-10"><i class="fa fa-fw fa-lg fa-globe"></i> greenguardexpress.lk </span>
                             <span class="m-r-10"><i class="fa fa-fw fa-lg fa-phone"></i> +94 752 800 800</span>
                         </p>
                     </div>

@@ -1,7 +1,7 @@
 @extends('user.layouts.app')
 
 @section('title')
-    Myproduct.lk | About Us
+    greenguardexpress.lk | About Us
 @endsection
 
 @section('styles')
@@ -27,7 +27,7 @@
                             <div class="about-text">
                                 <p> We have More than 5-year experience in E-commerce Company in Sri Lanka and leading well
                                     established Marketing, E-commerce, Services and uprising Company.</p>
-                                <p> Myproduct.lk has well Educated, Responsible Director board and honestly staff. Our main
+                                <p> greenguardexpress.lk has well Educated, Responsible Director board and honestly staff. Our main
                                     focus is to sell the quality products for you, amazing services and keeping a long-time
                                     business relationship with you.</p>
                                 <p> Moreover, we have partnered with platforms such as Daraz and Ikman.lk to broaden and
