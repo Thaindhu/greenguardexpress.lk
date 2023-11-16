@@ -1,7 +1,7 @@
 @extends('admin.layouts.master')
 
 @section('title')
-    MyProducts.lk | Admin | Create Sub category
+    Greenguardexpress.lk | Admin | Create Sub category
 @endsection
 
 @section('styles')

@@ -1,7 +1,7 @@
 @extends('admin.layouts.master')
 
 @section('title')
-    MyProducts.lk | Admin | Update Category
+    Greenguardexpress.lk | Admin | Update Category
 @endsection
 
 @section('styles')

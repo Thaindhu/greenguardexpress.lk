@@ -35,14 +35,14 @@
                                     <div class="icon">
                                         <i class="fa fa-home"></i>
                                     </div>
-                                    <div class="text">New supper market, Uragasmanhandiya.
+                                    <div class="text">Greenguardexpress.lk,Hibutuwelgoda,Kelaniya.
                                     </div>
                                 </div>
                                 <div class="phone form-group">
                                     <div class="icon">
                                         <i class="fa fa-phone"></i>
                                     </div>
-                                    <div class="text">Phone : 077749800 /0752 800 800</div>
+                                    <div class="text">Phone : 0761019156</div>
                                 </div>
                                 <div class="phone form-group">
                                     <div class="icon">
