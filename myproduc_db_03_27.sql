@@ -414,7 +414,7 @@ INSERT INTO `cities` (`loc_id`, `loc_name`, `delivery_rate`) VALUES
 (237, 'Rathgama', 350.00),
 (238, 'Thawalama', 350.00),
 (239, 'Udugama', 350.00),
-(240, 'Uragasmanhandiya', 350.00),
+(240, 'Hibutuwelgoda,Kelaniya', 350.00),
 (241, 'Wanduramba', 350.00),
 (242, 'Yakkalamulla', 350.00),
 (243, 'Addalaichcheni', 350.00),

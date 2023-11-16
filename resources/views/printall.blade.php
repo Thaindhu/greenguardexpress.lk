@@ -52,9 +52,9 @@ body {
                                 <td style="width: 40%;">
                                     <address class="m-t-5 m-b-5" style="font-size: 18px;margin-top:5px">
                                         greenguardexpress.lk<br>
-                                        New supper market,Uragasmanhandiya.<br>
-                                        info@Greenguardexpress.lk<br>
-                                        0777 749 800 / 0752 800 800
+                                        Hibutuwelgoda.<br>
+                                        Kelaniya<br>
+                                        0761019156
                                     </address>
                                 </td>
                                 <td style="width: 60%;">

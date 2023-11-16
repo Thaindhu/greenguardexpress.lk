@@ -78,13 +78,13 @@ Order | {{ $order->invoice_number }}
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                New supper market, Uragasmanhandiya.</td>
+                                                                Hibutuwelgoda,kelaniya</td>
                                                         </tr>
                                                         <tr>
                                                             <td>info@Greenguardexpress.lk</td>
                                                         </tr>
                                                         <tr>
-                                                            <td> 0777 749 800 /0752 800 800</td>
+                                                            <td> 0761019156</td>
                                                         </tr>
                                                         <!-- <tr>
                                                                                                                                                                                                                                                                                 <td><a href="#" target="_blank">www.demo.com</a>
