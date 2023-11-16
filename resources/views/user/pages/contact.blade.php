@@ -21,8 +21,8 @@
                 </div>
 
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.385058523072!2d80.07791991476977!3d6.344153395408991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1f3a7fb4513ac3e1!2zNsKwMjAnMzkuMCJOIDgwwrAwNCc0OC40IkU!5e0!3m2!1sen!2slk!4v1670586047690!5m2!1sen!2slk"
-                    width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.385058523072!2d79.9133!3d6.9518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1f3a7fb4513ac3e1!2zNsKwMjAnMzkuMCJOIDgwwrAwNCc0OC40IkU!5e0!3m2!1sen!2slk!4v1670586047690!5m2!1sen!2slk"
+                     width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <div class="info-contact clearfix">
                     <div class="col-lg-4 col-sm-4 col-xs-12 info-store">
